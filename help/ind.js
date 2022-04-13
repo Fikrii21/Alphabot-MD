@@ -232,7 +232,7 @@ exports.tos = (ownerNumber, prefix) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 0887435047326 (OVO/Dana/GoPay)
+🏧 081233738677 (OVO/Dana/GoPay)
 
 Berapapun donasi kalian akan sangat berarti 👍
 
